@@ -1,21 +1,17 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 14.11.2023 23:14:43
--- Design Name: 
+
 -- Module Name: ALU - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
+--4 bit ALU
+-- functions implemented :
+--   opcode  function
+--   000     a + b
+--   001     a - b
+--   010     a and b
+--   011     a nand b
+--   100     a or b
+--   101     a xor b
+--   110     a xnor b
+--   111     a nor b
 ----------------------------------------------------------------------------------
 
 
